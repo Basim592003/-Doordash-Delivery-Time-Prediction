@@ -1,4 +1,4 @@
-# -Doordash-Delivery-Time-Prediction
+# Doordash-Delivery-Time-Prediction
 Overview
 Project Description This project aims to predict the total delivery time for Doordash orders using a number of machine learning algorithms It does this by utilizing advanced feature engineering techniques and correlation analysis as well as handling multicollinearity to determine and train the best model for the job. The main objective is to implement a strong and interpretable prediction pipeline that is capable of estimating delivery times at a high degree of precision.
 
